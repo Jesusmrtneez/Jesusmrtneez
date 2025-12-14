@@ -22,7 +22,8 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,git,github,vscode,r,powerbi" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,git,github,vscode,r" />
+    <![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)>
   </a>
 </p>
 <br>
