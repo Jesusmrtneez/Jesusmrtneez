@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Jesusmrtneez/Jesusmrtneez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola 👋  soy Jesús / Jesusmrtneez ✨ </h1> 
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://www.linkedin.com/in/jes%C3%BAs-mart%C3%ADnez-rentero-96154b397/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jesusmartinezrentero"/></a>
+<a href = "mailto:jesusmartinezrentero@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jesusmartinezrentero"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+🎓 ESTADÍSTICA Y EMPRESA | UJA
+
+📫 Contacto: **jesusmartinezrentero@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,git,github,vscode,r,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
